@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.navigation p{
+    padding: 50px;
+    color: rgb(207, 207, 39);
+    font-size: 30px;
+    margin-left: 600px;
+}
+
+nav{
+
+    display: flex;
+
+    flex-wrap: wrap;
+
+    justify-content: space-between;
+
+    background-color: #2727bd;
+  
+
+
+}
+h1 {
+    color: rgb(207, 207, 30);
+    
+}      
+.az{
+    width: 50px;
+}
+
