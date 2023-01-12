@@ -38,7 +38,7 @@ $Liste = isset($_SESSION['tasks']) ? $_SESSION['tasks'] : array();
  </div>
  </nav>
  <div>
-   <h1> Pas de bonus je suis trop nul </h1>
+   <h1> Pas de bonus -_- </h1>
    <img class="az" src="snif.png" width>
 </div>
 <br>
