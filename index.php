@@ -38,7 +38,7 @@ $Liste = isset($_SESSION['tasks']) ? $_SESSION['tasks'] : array();
  </div>
  </nav>
  <div>
-   <h1> Pas de bonus </h1>
+   <h1> Pas de bonus je suis trop nul </h1>
    <img class="az" src="snif.png" width>
 </div>
 <br>
@@ -50,7 +50,7 @@ $Liste = isset($_SESSION['tasks']) ? $_SESSION['tasks'] : array();
 </form>
 
 <?php
-// Affiche la liste 
+// une variable pour stoke les reponses qu'on a écrit dans la liste 
 foreach ($Liste as $Liste) {
 echo '<li>' . $Liste . '</li>';
 }

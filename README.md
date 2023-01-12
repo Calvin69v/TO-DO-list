@@ -1,4 +1,4 @@
 -faire un formulaire  to do list 
 - crée une liste 
--
--
+-crée un bouton intput
+-crée une variable pour stoke les reponses 
